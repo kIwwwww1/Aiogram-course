@@ -15,23 +15,6 @@
 
 ---
 
-## 📂 **Структура проекта**
-
-```
-project/
-│
-├── lesson_1/
-│   └── routers/
-│       └── user_router.py   # обработчики сообщений
-│
-├── main.py                  # точка входа бота
-├── .env                     # файл с переменными окружения (TOKEN)
-├── requirements.txt         # зависимости
-└── README.md                # документация проекта
-```
-
----
-
 ## 🔧 **Технологии**
 
 * **Python 3.10+**
@@ -47,7 +30,6 @@ project/
 
 ```bash
 git clone https://github.com/kIwwwww1/Aiogram-course.git
-cd project
 ```
 
 ### 2. Установите зависимости
